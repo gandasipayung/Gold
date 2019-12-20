@@ -1,0 +1,17 @@
+[
+    {
+        "userName": "ganda",
+        "password": "123",
+        "name": "Ganda",
+        "dob": "2000/01/01",
+        "MembershipId": 3,
+        "email": "ganda@gmail.com"
+    },{
+        "userName": "diaz",
+        "password": "123",
+        "name": "Diaz",
+        "dob": "2000/12/12",
+        "MembershipId": 1,
+        "email": "diaz@gmail.com"
+    }
+]

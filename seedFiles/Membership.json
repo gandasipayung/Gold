@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Non-Member",
+        "disc": 1
+    },{
+        "name": "Silver",
+        "disc": 5
+    },{
+        "name": "Gold",
+        "disc": 10
+    },{
+        "name": "Platinum",
+        "disc": 15
+    }
+]

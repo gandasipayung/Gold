@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Mie Goreng",
+        "price": 30000,
+        "description": "Mi goreng terbuat dari mi kuning yang digoreng dengan sedikit minyak goreng, dan ditambahkan bawang putih, bawang merah, serta daging ayam atau daging sapi, irisan bakso, cabai, sayuran, tomat, telur ayam, dan acar.",
+        "img" : "/images/mie-goreng-seafood.png"
+    },{
+        "name": "Mie Goreng Sea Food",
+        "price": 35000,
+        "description": "Mi goreng terbuat dari mi kuning yang digoreng dengan sedikit minyak goreng, dan ditambahkan bawang putih, bawang merah, udang serta daging ayam atau daging sapi, irisan bakso, cabai, sayuran, tomat, telur ayam, dan acar.",
+        "img" : "/images/mie-goreng.jpg"
+    }, {
+        "name" : "Dim Sum Mantab",
+        "price" : 30000,
+        "description" : "Ukuran dim sum yang mini membuat orang kadang sulit menakar porsi yang pas. Sebaiknya jangan langsung memesan dim sum dalam jumlah banyak di awal. Karena setiap saat Anda bisa menambah pesanan jika mau.",
+        "img" : "/images/dimsum-coy.jpg"
+    }, {
+        "name" : "Somay Mahal",
+        "price" : 25000,
+        "description" : "Somay yang cukup mahal tapi enak kalau ada yang bayarin alias gratis.",
+        "img" : "/images/somay.jpg"
+    }
+]

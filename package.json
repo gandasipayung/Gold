@@ -1,0 +1,29 @@
+{
+  "name": "pairingproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "pg": "^7.15.1",
+    "sequelize": "^5.21.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendrywu1984/GoldenRestaurant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hendrywu1984/GoldenRestaurant/issues"
+  },
+  "homepage": "https://github.com/hendrywu1984/GoldenRestaurant#readme"
+}
